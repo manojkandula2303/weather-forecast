@@ -23,3 +23,5 @@ Usage
 3. Toggle between Celsius/Fahrenheit  
 
 Live Demo: https://hncgzt.csb.app/  
+
+https://github.com/manojkandula2303/weather-forecast/blob/f9ab55916fbcc0d98e2e2c26780a720a0db9ea67/image.png
